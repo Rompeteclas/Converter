@@ -1,12 +1,12 @@
-##Sprint 01: Crea tu propio conversor de moneda. 
+## Sprint 01: Crea tu propio conversor de moneda. 
 
-##Descripción
+## Descripción
 
 ¡Bienvenido al primer desafío del Challenge Java!
 
 En esta oportunidad, a los Devs se nos solicitó crear un conversor de divisas utilizando el lenguaje Java. Las características solicitadas por nuestro cliente son las siguientes:
 
-###Requisitos:
+### Requisitos:
 
 - El convertidor de moneda debe:
 
@@ -23,7 +23,7 @@ Recordando que también debe ser posible convertir inversamente, es decir:
        - Convertir de Yen Japonés a la moneda de tu país
        - Convertir de Won sul-coreano a la moneda de tu país
        
-###Extras:
+### Extras:
 
 Como desafío extra te animamos a que dejes fluir tu creatividad, si puedo convertir divisas, ¿tal vez pueda añadir a mi programa otros tipos de conversiones como temperatura por ejemplo?
 
@@ -31,7 +31,7 @@ Es hora de sorprender a nuestro cliente con una función que tal vez ni siquiera
 
 En la sección de Anexos hay un gif explicando como podría funcionar la aplicación, no olvides verlo :D
 
-##Solución
+## Solución
 
 <div align="center">
   <video width="75%" controls>
